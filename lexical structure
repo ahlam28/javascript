@@ -1,0 +1,7 @@
+     Reserved words in java script ; you cannot use reserved words as variable, labels or function name eg form, select,
+     images, double, char, break, in , catch and delete.
+    Unicode represent most written languages in the world, Ascii represents lowercase letters (a-z), 
+    uppercase letter digits and symbols such as punctuation marks while Unicode represent letter of english, 
+    arabic, greek. Unicode accommodates a huge number of characters.
+    Automatic semi-colon insertion java script does not enforce the use of a semi colon at the end of a statement, 
+    instead semicolon is optional.
