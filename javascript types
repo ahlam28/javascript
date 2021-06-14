@@ -1,0 +1,5 @@
+    1. Bottom Value in Type System is the type that has no value, also called zero or empty type. Let name = “null”
+
+    2. Floating points representation he representation of floating points in JavaScript follows the IEEE-754 format. 
+    It is a double precision format where 64 bits are allocated for every floating point. 
+    The displaying of these floating values could be handled using 2 methods. eg original floating point 3.12342
